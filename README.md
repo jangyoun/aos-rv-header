@@ -6,6 +6,6 @@
 
 <img src="https://raw.githubusercontent.com/jangyoun/android-recyclerview-with-header/master/description.png">
 
-- Using (https://github.com/kanytu/android-parallax-recyclerview "android-parallax-recyclerview lib").
+- Using [android-parallax-recyclerview lib](https://github.com/kanytu/android-parallax-recyclerview "android-parallax-recyclerview lib").
  
 RecyclerViewWithHeader
